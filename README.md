@@ -49,7 +49,7 @@ python -m soundhire.cli create-booking --package-id 1 --name "John Doe" \
 python -m soundhire.cli list-bookings
 ```
 
-[Software Demo Video](https://youtu.be/uRE2pu3lv_k)
+[Software Demo Video]
 
 ## Cloud Database
 
